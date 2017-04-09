@@ -19,6 +19,7 @@ Suggests:
     bitops,
     lubridate,
     xts,
+    dplyr,
     FactoMineR (>= 1.33),
     factoextra (>= 1.0.3),
     gplots (>= 3.0.1),
